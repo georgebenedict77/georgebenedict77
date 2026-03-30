@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm George (benjoji77) 👋
 
-<!--
-**georgebenedict77/georgebenedict77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student & graphic designer from Kenya — I build it, then make it beautiful.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Computer Science student at Karatina University
+- 🎨 Self-taught graphic designer passionate about visual storytelling
+- 🇰🇪 Based in Kenya, building at the intersection of code and creativity
+- 🔍 Open to internships and creative collaborations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+**Code**
+- JavaScript, Java, HTML/CSS, C, C++, Python
+
+**Design**
+- Adobe Photoshop, Illustrator, Figma, Canva
+
+## Currently
+- 📚 Sharpening my CS fundamentals
+- 🎨 Growing my design portfolio
+- 🛠️ Building projects that combine both worlds
+
+## Let's Connect
+Got a project, an idea, or an opportunity? Reach out.
